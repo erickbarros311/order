@@ -3,5 +3,5 @@
 
 # DESAFIO: Componentes e injeção de dependência
 ## Aluno: Erick B. Nascimento.
-## Status: Concluido. 
+## Status: Concluído. 
 
